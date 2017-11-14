@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.dagger:dagger-android-support:2.11] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\dagger-android-support-2.11.aar\6844ea911bda446aa0c7c3bc522b14ad\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.dagger:dagger-android:2.11] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\dagger-android-2.11.aar\e808b7b3394875506a142553b2a22927\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\021d4dbb70a684595e81a339924e93c3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\cc998017d7e67152f035f34111c5bf77\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e0a87071ce3d249644759b770eac27f0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\689a1b337de8c3aa83de4cb218a91d52\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\84caeae5338a73ab9c186865b1377c9a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27ac276ac0e73488c2cd8ef2c5f0a1f3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\817ca646f12020da0a83b9800069afd6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c80efc63dfb02cc6601f336e1a704e8b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c0b8eb122aadf5d7ea790d7d75388e2\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\26925dfa605fcae5fe060c343d101b58\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a4778a0ca384aeee70fdfdafc906957e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\14813861a7071ac2f45c88dbc9728bb5\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3a0d742f1650493d2e4adb927b3cc9b0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0bb2175c6215275ebf74a430ab67524\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f54a8130682b24cc83abb99dadd10eb2\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\209bc1d3bb3a2485942f02680a48b928\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\90be5c15c6fb595c1ca47779a86dd0c2\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\297aaafbc4dda6a65cc8af1141237132\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\021d4dbb70a684595e81a339924e93c3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\021d4dbb70a684595e81a339924e93c3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\cc998017d7e67152f035f34111c5bf77\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\cc998017d7e67152f035f34111c5bf77\AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e0a87071ce3d249644759b770eac27f0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e0a87071ce3d249644759b770eac27f0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\689a1b337de8c3aa83de4cb218a91d52\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\689a1b337de8c3aa83de4cb218a91d52\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\84caeae5338a73ab9c186865b1377c9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\84caeae5338a73ab9c186865b1377c9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27ac276ac0e73488c2cd8ef2c5f0a1f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27ac276ac0e73488c2cd8ef2c5f0a1f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\817ca646f12020da0a83b9800069afd6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\817ca646f12020da0a83b9800069afd6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c80efc63dfb02cc6601f336e1a704e8b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c80efc63dfb02cc6601f336e1a704e8b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c0b8eb122aadf5d7ea790d7d75388e2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c0b8eb122aadf5d7ea790d7d75388e2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a4778a0ca384aeee70fdfdafc906957e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a4778a0ca384aeee70fdfdafc906957e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\14813861a7071ac2f45c88dbc9728bb5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\14813861a7071ac2f45c88dbc9728bb5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0bb2175c6215275ebf74a430ab67524\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0bb2175c6215275ebf74a430ab67524\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f54a8130682b24cc83abb99dadd10eb2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f54a8130682b24cc83abb99dadd10eb2\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:9:9-49
+activity#com.driftycode.productsassignment.MainActivity
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.driftycode.productsassignment.ShowProductsActivity
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:26:19-55
+activity#com.driftycode.productsassignment.CreateProductsActivity
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:27:9-30:59
+	android:label
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:29:13-67
+	android:theme
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:28:13-51
+activity#com.driftycode.productsassignment.base.BaseActivity
+ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:31:9-55
+	android:name
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml:31:19-52
+uses-sdk
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+MERGED from [com.google.dagger:dagger-android-support:2.11] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\dagger-android-support-2.11.aar\6844ea911bda446aa0c7c3bc522b14ad\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android-support:2.11] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\dagger-android-support-2.11.aar\6844ea911bda446aa0c7c3bc522b14ad\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.11] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\dagger-android-2.11.aar\e808b7b3394875506a142553b2a22927\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.11] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\dagger-android-2.11.aar\e808b7b3394875506a142553b2a22927\AndroidManifest.xml:18:3-42
+MERGED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\021d4dbb70a684595e81a339924e93c3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\021d4dbb70a684595e81a339924e93c3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\cc998017d7e67152f035f34111c5bf77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\cc998017d7e67152f035f34111c5bf77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e0a87071ce3d249644759b770eac27f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e0a87071ce3d249644759b770eac27f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\689a1b337de8c3aa83de4cb218a91d52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\689a1b337de8c3aa83de4cb218a91d52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\84caeae5338a73ab9c186865b1377c9a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\84caeae5338a73ab9c186865b1377c9a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27ac276ac0e73488c2cd8ef2c5f0a1f3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27ac276ac0e73488c2cd8ef2c5f0a1f3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\817ca646f12020da0a83b9800069afd6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\817ca646f12020da0a83b9800069afd6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c80efc63dfb02cc6601f336e1a704e8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c80efc63dfb02cc6601f336e1a704e8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c0b8eb122aadf5d7ea790d7d75388e2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c0b8eb122aadf5d7ea790d7d75388e2\AndroidManifest.xml:21:5-23:63
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\26925dfa605fcae5fe060c343d101b58\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\26925dfa605fcae5fe060c343d101b58\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a4778a0ca384aeee70fdfdafc906957e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a4778a0ca384aeee70fdfdafc906957e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\14813861a7071ac2f45c88dbc9728bb5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\14813861a7071ac2f45c88dbc9728bb5\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3a0d742f1650493d2e4adb927b3cc9b0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3a0d742f1650493d2e4adb927b3cc9b0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0bb2175c6215275ebf74a430ab67524\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0bb2175c6215275ebf74a430ab67524\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f54a8130682b24cc83abb99dadd10eb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f54a8130682b24cc83abb99dadd10eb2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\209bc1d3bb3a2485942f02680a48b928\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\209bc1d3bb3a2485942f02680a48b928\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\90be5c15c6fb595c1ca47779a86dd0c2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\90be5c15c6fb595c1ca47779a86dd0c2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\297aaafbc4dda6a65cc8af1141237132\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\297aaafbc4dda6a65cc8af1141237132\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AppExpert\products\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\021d4dbb70a684595e81a339924e93c3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\021d4dbb70a684595e81a339924e93c3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\cc998017d7e67152f035f34111c5bf77\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\cc998017d7e67152f035f34111c5bf77\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e0a87071ce3d249644759b770eac27f0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\e0a87071ce3d249644759b770eac27f0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\689a1b337de8c3aa83de4cb218a91d52\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\689a1b337de8c3aa83de4cb218a91d52\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\84caeae5338a73ab9c186865b1377c9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\84caeae5338a73ab9c186865b1377c9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27ac276ac0e73488c2cd8ef2c5f0a1f3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27ac276ac0e73488c2cd8ef2c5f0a1f3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\817ca646f12020da0a83b9800069afd6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\817ca646f12020da0a83b9800069afd6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c80efc63dfb02cc6601f336e1a704e8b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c80efc63dfb02cc6601f336e1a704e8b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c0b8eb122aadf5d7ea790d7d75388e2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8c0b8eb122aadf5d7ea790d7d75388e2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a4778a0ca384aeee70fdfdafc906957e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a4778a0ca384aeee70fdfdafc906957e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\14813861a7071ac2f45c88dbc9728bb5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\14813861a7071ac2f45c88dbc9728bb5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f54a8130682b24cc83abb99dadd10eb2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f54a8130682b24cc83abb99dadd10eb2\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\18e54d40a8bbbd394cfc39e64ab0ec86\AndroidManifest.xml:27:13-51
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\torah\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\1cd80c3f7fd2063bcb06db7a5286bcd4\AndroidManifest.xml:26:13-83
