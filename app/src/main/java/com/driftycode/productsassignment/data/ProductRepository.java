@@ -1,5 +1,7 @@
 package com.driftycode.productsassignment.data;
 
+import android.arch.lifecycle.LiveData;
+
 import java.util.List;
 
 import javax.inject.Inject;
@@ -7,7 +9,6 @@ import javax.inject.Inject;
 /**
  * Created by Abdul Raheem on 14/11/17.
  */
-
 public class ProductRepository {
 
 
@@ -19,7 +20,7 @@ public class ProductRepository {
     }
 
 
-    public List<ProductTableModel> getListOfData() {
+    public LiveData<List<ProductTableModel>> getListOfData() {
         return productDao.getProducts();
     }
 
